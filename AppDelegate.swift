@@ -1,10 +1,5 @@
-//
-//  AppDelegate.swift
-//  RashanTemp1
-//
-//  Created by Danial Hussain on 01/10/2018.
-//  Copyright © 2018 i General Trading. All rights reserved.
-//
+// Testfile for Ms Sama Demo
+
 
 import UIKit
 import GoogleMaps
@@ -12,6 +7,7 @@ import IQKeyboardManagerSwift
 import Firebase
 import UserNotifications
 import FirebaseMessaging
+
 @UIApplicationMain
 
 class AppDelegate: UIResponder, UIApplicationDelegate {
